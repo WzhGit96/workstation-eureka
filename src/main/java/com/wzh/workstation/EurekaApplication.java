@@ -1,4 +1,4 @@
-package com.wzh;
+package com.wzh.workstation;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
